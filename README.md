@@ -4,7 +4,7 @@
 
 ## 요구사항
 
-* PyTorch 1.0 
+* PyTorch 1.0
 * Python >= 3.6.1
 
 
